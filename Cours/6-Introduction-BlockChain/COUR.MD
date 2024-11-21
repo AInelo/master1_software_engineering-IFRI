@@ -47,6 +47,7 @@ La blockchain est une chaine d'approvisionnement de données, parce que les donn
 - Le **Contrat Intelligent malveillant** est un problème qui peut survenir dans une blockchain. En effet c'est un problème de sécurité. Il s'agit de créer un contrat intelligent qui peut être malveillant. Par exemple un contrat qui peut voler des fonds. Elle provient fondamentalement de la mailveillance des contrat intelligents.
 
 
+
 Je vais vous expliquer plus en détail les smart contracts malveillants.
 Un smart contract malveillant (ou contrat intelligent malveillant) est un programme informatique déployé sur une blockchain qui contient intentionnellement du code malicieux. Voici les points clés à comprendre :
 Types courants de smart contracts malveillants

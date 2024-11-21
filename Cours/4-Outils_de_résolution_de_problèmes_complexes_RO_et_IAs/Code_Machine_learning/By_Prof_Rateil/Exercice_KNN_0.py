@@ -9,7 +9,7 @@ import pandas as pd
 
 # Importing the dataset
 # dataset = pd.read_csv('C:\Users\HP\Desktop\MASTER1_SOFTWARE_ENGENIEERING-IFRI\Cours\4-Outils_de_résolution_de_problèmes_complexes_RO_et_IAs\Code_Machine_learning\By_Prof_Rateil\base3.csv')
-dataset = pd.read_csv('.\base3.csv')
+dataset = pd.read_csv('base3.csv')
 
 ##KNN without normalization
 
